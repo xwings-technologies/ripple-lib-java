@@ -50,6 +50,3 @@ the basis for various clients/wallets.
   - Documentation
   - Complete test coverage
 
-### Examples
-
-  - See in ripple-examples/ folder
