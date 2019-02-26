@@ -36,6 +36,7 @@ the basis for various clients/wallets.
     - Provider name: "RBC"
     - Package name: org.ripple.bouncycastle
   - CLI example
+  - Multisig support
 
 ### Docs
 
